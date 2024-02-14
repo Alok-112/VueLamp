@@ -21,5 +21,4 @@ Vuelamp is a minimalist website designed to showcase different types of lamps an
 - Images: [Unsplash](https://unsplash.com/)
 - Icons: [Font Awesome](https://fontawesome.com/)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
